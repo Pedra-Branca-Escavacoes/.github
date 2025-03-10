@@ -21,13 +21,14 @@ A **Pedra Branca Escavações** é uma empresa especializada em serviços de esc
 
 ## 📂 O que você encontra aqui?
 
-🚀 Scripts para automação de tarefas
-🛠 Ferramentas para administração de servidores Linux
-📲 Aplicações e APIs para suporte às operações
-📊 Dashboards para monitoramento e análise de dados
-🔧 Documentação técnica e melhores práticas
+🚀 Scripts para automação de tarefas  
+🛠 Ferramentas para administração de servidores Linux  
+📲 Aplicações e APIs para suporte às operações  
+📊 Dashboards para monitoramento e análise de dados  
+🔧 Documentação técnica e melhores práticas  
 
 ---
+
 
 ### 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alletog&show_icons=true&theme=dark)
