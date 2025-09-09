@@ -29,14 +29,6 @@ A **Pedra Branca Escavações** é uma empresa especializada em serviços de esc
 
 ---
 
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alletog&show_icons=true&theme=dark)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alletog&layout=compact&theme=dark)
-
----
-
 ## 🤝 Contribuição
 Se você faz parte do time da **Pedra Branca Escavações** e deseja contribuir, sinta-se à vontade para abrir issues e pull requests! Vamos construir juntos soluções cada vez melhores. 
 
@@ -51,3 +43,4 @@ Você pode seguir e interagir com o time de desenvolvimento através dos perfis 
  
 
 Vamos juntos transformar tecnologia em eficiência! 🚀
+
